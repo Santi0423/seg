@@ -6,3 +6,20 @@ H1 {
     background-color: #007bff; /* Color de fondo azul */
     padding: 10px; /* Relleno interno */
 }
+
+h2 {
+    font-size: 20px; /* Tamaño de fuente para h2 */
+    color: #007bff; /* Color del texto (azul) para h2 */
+    background-color: #fff; /* Color de fondo blanco para h2 */
+    border: 1px solid #007bff; /* Borde de 1px sólido azul para h2 */
+}
+
+footer {
+    background-color: #333; /* Color de fondo */
+    color: #fff; /* Color del texto */
+    padding: 20px; /* Espaciado interno */
+    text-align: center; /* Alineación del texto */
+    position: fixed; /* Fijar al fondo de la ventana */
+    bottom: 0; /* Posición al fondo */
+    width: 100%; /* Ancho completo */
+}
